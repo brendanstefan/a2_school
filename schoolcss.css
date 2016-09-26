@@ -1,0 +1,50 @@
+#bannerPic{
+	
+	float: right;
+	margin: 0 50px 10px 10px;
+	border-style: inset;
+	border-width: 7px;
+	border-color: #3F51B5;
+	padding: 10px;
+	box-shadow: 6px 6px 6px #9495a5;
+	
+}
+
+.clearfloat{
+	
+	clear: both;
+	
+}
+
+#banner {
+
+	margin: 10px 10px 10px 10px;
+	background: linear-gradient(to right, white , #000000);
+
+}
+
+#aboutme{
+	
+	font-size: 1.5;
+	background-color:#3F51B5;
+	color:#E7FFFF;
+	padding: 10px;
+	border-radius: 25px;
+	
+	
+}
+
+#aboutme:hover{
+	
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+
+	
+}
+
+#infoaboutme {
+	
+	color:#3F51B5
+	
+	
+	
+}
